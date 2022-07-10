@@ -1,0 +1,43 @@
+html {
+  scroll-behavior: smooth;
+  background-color: aqua;
+}
+body {
+  margin: 0;
+}
+
+p {
+  color: #fff;
+}
+
+.navbar {
+  color: #fff;
+  font-family: "Monserrat", sans sarif;
+}
+
+.about {
+  background-color: #3d0000;
+}
+
+.masthead {
+  padding: 10% 0;
+  background-color: #ff4c68;
+  background-image: url(/images/mercedes-amg-a45-g939b3cd54_1920.jpg);
+  background-repeat: round;
+}
+
+.page-section {
+  padding: 10% 0;
+}
+
+.about {
+  background-color: #3d0000;
+}
+
+#portfolio {
+  background-color: #808080;
+}
+
+.project-category {
+  color: #808080;
+}
