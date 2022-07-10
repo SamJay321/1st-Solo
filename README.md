@@ -1,4 +1,4 @@
-![Scrennshot of the page](screenshot.png)
+![Scrennshot of the page](landing-page.png)
 # 1st-Solo
 A landing page
 
